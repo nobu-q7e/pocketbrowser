@@ -22,3 +22,6 @@ Extensions are simple content scripts. They can read and modify the page you're 
 First launch is slow. Qt WebEngine (Chromium) takes a moment to spin up, especially from a `--onefile` build extracting itself to a temp folder. This is expected and only really noticeable on the very first startup after each new build. 
 License
 MIT — see LICENSE. Do whatever you like with it.
+
+!NOTE
+download from the releases
